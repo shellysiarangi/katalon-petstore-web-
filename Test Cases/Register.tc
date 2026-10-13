@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dilakukan pengujian untuk membuat akun baru dengan menggunakan fitur &quot;Registr Now!&quot;</description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b81e790d-4c03-4d38-98d3-07e7c66863a8</testCaseGuid>
+</TestCaseEntity>

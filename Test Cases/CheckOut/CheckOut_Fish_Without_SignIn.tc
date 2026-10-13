@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian Checkout Product kategori Fish tanpa melakukan login terlebih dahulu dan memverifikasi untuk melakukan login untuk checkout</description>
+   <name>CheckOut_Fish_Without_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a593f082-bf1e-44ae-b26d-3b35952f63ac</testCaseGuid>
+</TestCaseEntity>

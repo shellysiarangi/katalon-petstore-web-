@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan verifikasi ketersediaan pilihan menu  kategori melalui image</description>
+   <name>Pilih_Kategori_Image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b149bfa-12dd-4edf-9089-89099d8273a4</testCaseGuid>
+</TestCaseEntity>

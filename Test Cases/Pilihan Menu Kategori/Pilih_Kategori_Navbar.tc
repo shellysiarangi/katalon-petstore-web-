@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan verifikasi ketersediaan pilihan menu  kategori pada Navigasi Bar</description>
+   <name>Pilih_Kategori_Navbar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>657df865-fe20-4511-b7f9-7096bbd5e48e</testCaseGuid>
+</TestCaseEntity>

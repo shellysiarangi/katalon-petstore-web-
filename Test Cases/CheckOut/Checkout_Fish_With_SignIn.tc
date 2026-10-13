@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian Checkout Product kategori Fish dengan melakukan login terlebih dahulu</description>
+   <name>Checkout_Fish_With_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8194612e-37cb-4df9-b864-4431e3761297</testCaseGuid>
+</TestCaseEntity>

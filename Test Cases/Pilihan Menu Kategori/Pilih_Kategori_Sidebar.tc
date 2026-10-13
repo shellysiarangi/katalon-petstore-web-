@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan verifikasi ketersediaan pilihan menu  kategori pada Side Bar</description>
+   <name>Pilih_Kategori_Sidebar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f3fd075-ba3a-4539-9da8-d5becd48860c</testCaseGuid>
+</TestCaseEntity>

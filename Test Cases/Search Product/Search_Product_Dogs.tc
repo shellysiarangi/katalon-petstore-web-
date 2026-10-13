@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan pencarian Product kategori Dogs dengan menggunakan metode custom keyword</description>
+   <name>Search_Product_Dogs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eabc29fe-ae4b-4e80-b441-c6d74b0a2109</testCaseGuid>
+</TestCaseEntity>

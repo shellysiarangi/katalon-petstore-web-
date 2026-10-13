@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan pengecekan product yang tersedia pada keranjang namun belum melakukan sign in. ekspektasi yang diharapkan, keranjang tidak berisi product apapun karena untuk memasukkan product dalam keranjang harus melakukan sign in</description>
+   <name>Check_Keranjang_Without_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>609ad777-dddc-4f56-98ed-1071ceb0ba22</testCaseGuid>
+</TestCaseEntity>

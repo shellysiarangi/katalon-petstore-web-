@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan pencarian Product Kategori Fish dengan menggunakan metode DDT</description>
+   <name>Search_Product_Fish</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00bbca7f-d286-4bc3-9de7-991b45bf4d37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d5d6840-126b-409d-b2be-4541b3cc7b6b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26c89993-0332-4901-9394-0b6afd5cf6d2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b5b347c-24b3-4944-8d03-4a0421c05ca8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Fish'</defaultValue>
+      <description></description>
+      <id>3d5d6840-126b-409d-b2be-4541b3cc7b6b</id>
+      <masked>false</masked>
+      <name>product</name>
+   </variable>
+   <variable>
+      <defaultValue>'FI-SW-01'</defaultValue>
+      <description></description>
+      <id>26c89993-0332-4901-9394-0b6afd5cf6d2</id>
+      <masked>false</masked>
+      <name>product_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Angelfish'</defaultValue>
+      <description></description>
+      <id>2b5b347c-24b3-4944-8d03-4a0421c05ca8</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

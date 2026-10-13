@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SignIn Negatif DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>316cb030-8bd0-4526-a8d7-3174b5caaf6c</testSuiteGuid>
+   <testCaseLink>
+      <guid>bd7e1d8d-7028-499e-88b0-83da4b15f6d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SignIn_Negatif_DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0eed46b6-6361-409f-ae6b-96b25de5eaec</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Sign In</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0eed46b6-6361-409f-ae6b-96b25de5eaec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>a05e2a63-14b2-4730-8e6d-3be8af534aff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eed46b6-6361-409f-ae6b-96b25de5eaec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>6fa5178c-157a-4001-9705-e08762334294</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eed46b6-6361-409f-ae6b-96b25de5eaec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0063a0c0-da13-4d83-b03c-ea39aa65041e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eed46b6-6361-409f-ae6b-96b25de5eaec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected</value>
+         <variableId>6f7977fd-4373-4a08-b6d0-f60f8c58d096</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
